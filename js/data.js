@@ -1,7 +1,7 @@
 // ============ KOSMOETICS SETTINGS: edit this file to change the site ============
 // WhatsApp number: country code + number, no + or spaces
 var WHATSAPP = "918770283712";
-var BUSINESS = "Kosmoetics";
+var BUSINESS = "KOSMO ETICS";
 
 var SERVICES = [
  {c:"Threading",n:"Eyebrows",p:40,m:10},{c:"Threading",n:"Upper lip",p:20,m:5},{c:"Threading",n:"Forehead",p:20,m:5},{c:"Threading",n:"Full face threading",p:180,m:30},

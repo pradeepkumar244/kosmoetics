@@ -1,4 +1,4 @@
-KOSMOETICS WEBSITE: WHAT IS WHERE
+KOSMO ETICS WEBSITE: WHAT IS WHERE
 
 index.html       Page layout and fixed text (offer banner, "Why customers book with us", about section, footer)
 css/style.css    Colours, fonts, spacing (colours are at the top, in :root)
